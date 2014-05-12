@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01A26ED61920B7CF00C88B79 /* DAfgTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A26ED51920B7CF00C88B79 /* DAfgTableViewController.m */; };
 		E1089D8C1683F70F00EFC851 /* weixin_code.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1089D8B1683F70F00EFC851 /* weixin_code.jpg */; };
 		E1089D8F168401B700EFC851 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E1089D8E168401B700EFC851 /* Icon.png */; };
 		E1089D91168401E600EFC851 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E1089D90168401E600EFC851 /* Default.png */; };
@@ -237,6 +238,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01A26ED41920B7CF00C88B79 /* DAfgTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DAfgTableViewController.h; sourceTree = "<group>"; };
+		01A26ED51920B7CF00C88B79 /* DAfgTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DAfgTableViewController.m; sourceTree = "<group>"; };
 		E1089D8B1683F70F00EFC851 /* weixin_code.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weixin_code.jpg; sourceTree = "<group>"; };
 		E1089D8E168401B700EFC851 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../Icon.png; sourceTree = "<group>"; };
 		E1089D90168401E600EFC851 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
@@ -694,6 +697,8 @@
 				E1E96E5A1674340400DE02E1 /* DoubanAlbumDefines.h */,
 				E189FD7E1674C87000AFDA0C /* blocktypedef.h */,
 				E1778E3616761BF00017DCFF /* DoubanAlbumAdditions.h */,
+				01A26ED41920B7CF00C88B79 /* DAfgTableViewController.h */,
+				01A26ED51920B7CF00C88B79 /* DAfgTableViewController.m */,
 			);
 			path = DoubanAlbum;
 			sourceTree = "<group>";
@@ -1292,6 +1297,7 @@
 				E1089DB91684774600EFC851 /* UIImage+Resize.m in Sources */,
 				E1089DBA1684774600EFC851 /* UIImage+RoundedCorner.m in Sources */,
 				E14066901685DF7F00C56560 /* UIImageView+AFNetworkingExtends.m in Sources */,
+				01A26ED61920B7CF00C88B79 /* DAfgTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
